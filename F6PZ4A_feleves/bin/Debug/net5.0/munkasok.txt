@@ -1,0 +1,10 @@
+auditor,1,Béla,3
+sales,2,Adam,4
+futar,1,Csabi,2
+szabadbolcsesz,3,Tibor,10
+esztergalyos,5,Márk,5
+auditor,1,Józsi,3
+sales,2,Fanni,3
+futar,1,Viki,4
+szabadbolcsesz,3,Attila,9
+esztergalyos,5,Péter,7

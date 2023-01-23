@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "F6PZ4A_feleves/1.0.0": {
+        "runtime": {
+          "F6PZ4A_feleves.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "F6PZ4A_feleves/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
